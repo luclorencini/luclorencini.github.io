@@ -1,0 +1,7 @@
+# Este é o arquivo de configuração do Jekyll
+# Ele é usado para definir várias opções de configuração
+# O arquivo foi adicionado para garantir que o Jekyll ignore a pasta 'dist'
+# onde os arquivos estáticos, como o mapaSvg.js, são armazenados.
+
+exclude:
+  - dist
